@@ -1,0 +1,11 @@
+{
+    "name": "LinkedIn Profile Details",
+    "version": "1.0.0",
+    "description": "latest linkedin profiles",
+    "manifest_version": 3,
+    "author": "Prasanth",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest LinkedIn Info"
+    }
+}
